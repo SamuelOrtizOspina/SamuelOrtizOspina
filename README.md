@@ -3,4 +3,4 @@
 ### Aqui puedes encontrar todos los proyectos en los que estoy trabajando 
 
 
-![]https://samuelortizospina.me/assets/images/miFoto.jpeg
+![](https://samuelortizospina.me/assets/images/miFoto.jpeg)
