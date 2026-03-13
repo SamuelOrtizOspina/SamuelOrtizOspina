@@ -38,7 +38,7 @@
 
 ### stats
 
-![](https://github-readme-stats.vercel.app/api?username=maplehugs&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12)
+![](https://github-readme-stats.vercel.app/api?username=samuelortizospina&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maplehugs&theme=dracula&hide_border=true&border_radius=12)
 
