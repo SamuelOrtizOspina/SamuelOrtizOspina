@@ -40,9 +40,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=samuelortizospina&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=maplehugs&theme=dracula&hide_border=true&border_radius=12)
+![](https://github-readme-streak-stats.herokuapp.com/?user=samuelortizospina&theme=dracula&hide_border=true&border_radius=12)
 
-![](https://github-contributor-stats.vercel.app/api?username=maplehugs&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=samuelortizospina&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
@@ -64,10 +64,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maplehugs&theme=dracula&hide_border=true&area=true&custom_title=contribution%20graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelortizospina&theme=dracula&hide_border=true&area=true&custom_title=contribution%20graph" width="95%"/>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=maplehugs&color=bd93f9&style=for-the-badge&label=profile+views)
+![](https://komarev.com/ghpvc/?username=samuelortizospina&color=bd93f9&style=for-the-badge&label=profile+views)
 
 </div>
