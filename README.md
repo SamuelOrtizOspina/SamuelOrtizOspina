@@ -2,7 +2,7 @@
 
 ### Aqui puedes encontrar todos los proyectos en los que estoy trabajando 
 
-
+haroldccs 
 
 
 
@@ -13,7 +13,7 @@
 
 
 # Mis estadísticas en Github
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelOrtizOspina&show_icons=true&theme=dark)](https://github.com/SamuelOrtizOspina/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldccs&show_icons=true&theme=dark)](https://github.com/SamuelOrtizOspina/github-readme-stats)
 
 ### Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-Samuel_Ortiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-ortiz-ospina-30a004206/)](https://www.linkedin.com/in/samuel-ortiz-ospina-30a004206/)
