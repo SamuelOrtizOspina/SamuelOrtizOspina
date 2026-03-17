@@ -26,7 +26,7 @@
 
 <div align="center">
 
-# hey, i'm maple
+# hey, i'm Samuel
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=full+stack+dev+%7C+artist+%7C+cloud+nerd;i+break+things+and+sometimes+fix+them;probably+debugging+rn+tbh)](https://git.io/typing-svg)
 
